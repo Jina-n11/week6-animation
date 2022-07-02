@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_mid">8dp</dimen>
+    <dimen name="size_icon_larg">64dp</dimen>
+    <dimen name="height_image_larg">200dp</dimen>
+    <dimen name="size_icon_mid">48dp</dimen>
+    <dimen name="width_image">100dp</dimen>
+    <dimen name="height_normal">50dp</dimen>
+</resources>
